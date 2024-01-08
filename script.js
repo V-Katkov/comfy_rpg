@@ -24,7 +24,7 @@ const weapons = [
 ];
 const monsters = [
   {
-    name: ['Таня', 'Сергей', 'Максім'],
+    name: ['Таня', 'Кідрук', 'Максім'],
     level: 2,
     health: 15
   },
